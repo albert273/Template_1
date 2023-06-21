@@ -1,3 +1,7 @@
 # Template_1
-<h2>HTML and CSS first Template<h2>
-<i class="far fa-gem fa-3x"></i>
+<html>
+  <body>
+    <h2 style="color: aqua;"l>HTML and CSS first Template<h2>
+  </body>
+</html>
+
